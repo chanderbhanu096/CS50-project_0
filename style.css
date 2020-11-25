@@ -1,0 +1,20 @@
+#header{
+    position: absolute;
+    right: 10px;
+    font-size: 14px;
+}
+
+#google_icon{
+    padding-top: 109px;
+    display: block;
+    text-align: -webkit-center;
+}
+#form{
+    display: block;
+    top: 28px;
+    padding: 10px 18px;
+    text-align: -webkit-center;
+}
+body{
+    font-family: arial,sans-serif;
+}

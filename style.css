@@ -1,7 +1,12 @@
-#header{
-    position: absolute;
+.header{
+    position:absolute;
     right: 10px;
     font-size: 14px;
+    color: rgb(211, 211, 211)
+    
+}
+.header a{
+    color: #202124
 }
 
 #google_icon{
@@ -16,5 +21,5 @@
     text-align: -webkit-center;
 }
 body{
-    font-family: arial,sans-serif;
+    font-family: Arial,sans-serif;
 }
